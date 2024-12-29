@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "772642157948",
+    "firebase_url": "https://capstoneproj-ecc87-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstoneproj-ecc87",
+    "storage_bucket": "capstoneproj-ecc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772642157948:android:2614903eb5bb05963f60f9",
+        "android_client_info": {
+          "package_name": "com.example.hogme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9BQcfDh034a5UcDNhhcL3b0tNc5fc-m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772642157948:android:e3ab2e7fac06df8c3f60f9",
+        "android_client_info": {
+          "package_name": "com.example.hogme_user_prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9BQcfDh034a5UcDNhhcL3b0tNc5fc-m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
